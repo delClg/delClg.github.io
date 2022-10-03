@@ -1,1 +1,0 @@
-# delClg.github.io
