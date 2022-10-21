@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"syncChat","l":"Client"},{"p":"WalkieTalkie","l":"Client"},{"p":"syncChat","l":"Server.ClientHandler"},{"p":"utils","l":"ColorPrinter"},{"p":"utils","l":"Command"},{"p":"utils","l":"CommandHandler"},{"p":"syncChat","l":"Server"},{"p":"WalkieTalkie","l":"Server"}];updateSearchResults();

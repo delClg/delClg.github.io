@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"syncChat"},{"l":"utils"},{"l":"WalkieTalkie"}];updateSearchResults();
